@@ -1,0 +1,5 @@
+Student Performance and Ranking Management System
+part-1 store and display roll no.
+part-2 search for roll no.
+part-3 arrange roll no.
+part-4 simple student management system
