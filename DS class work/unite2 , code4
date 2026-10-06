@@ -15,6 +15,7 @@ cout << "\n===== CUSTOMER SERVICE =====\n";
 while (front < rear)
 {
 cout << "Serving Token: " << queue[front] << endl;
-front++;}
+front++;
+}
 return 0;
 }
